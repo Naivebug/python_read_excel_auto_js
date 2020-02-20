@@ -7,3 +7,6 @@
 第五行:代码里标识,程序用.
 3点击_buildme.bat输出到mkdata目录
 4具体的查看下本人的pyhton_read_excel_to_lua这个项目说明
+5这么好的导表工具,,还能看报错,给个星星呗
+
+--create by 梁疯
